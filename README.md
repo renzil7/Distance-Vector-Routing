@@ -2,7 +2,7 @@
 This project enables router to compute and share its routing table with all the other routers it is connected to using a DVR protocol called RIP.
 
 The submission consists of a total of 4 java files
-Main.java \n
+Main.java
 Receiver.java
 Sender.java
 Table.java
