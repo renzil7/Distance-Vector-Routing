@@ -13,7 +13,7 @@ Steps to run the code:
 2. Run the Main.java file on every PC
 3. Enter the required inputs in the following order
 
-Routers IP address
+Routers IP address<br>
 Routers name
 Port the router is listening on
 Number of neighbors
