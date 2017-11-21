@@ -1,5 +1,5 @@
 # Distance-Vector-Routing
-This project enables router to compute and share its routing table with all the other routers it is connected to using a DVR protocol called RIP.
+This project enables router to compute and share its routing table with all the other routers it is connected to using a DVR protocol called RIP.It also displays the routing table every second
 
 The submission consists of a total of 4 java files<br>
 Main.java<br>
